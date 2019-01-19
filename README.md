@@ -2,6 +2,15 @@
 
 Evaluates and runs a [Swift GYB](https://nshipster.com/swift-gyb/) script.
 
+## Installation
+
+Install `swift-gyb` with [Homebrew](https://brew.sh)
+using the following command:
+
+```terminal
+$ brew install nshipster/formulae/swift-gyb
+```
+
 ## Usage
 
 ```python
